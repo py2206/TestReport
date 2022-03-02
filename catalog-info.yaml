@@ -3,8 +3,7 @@ kind: Component
 metadata:
   name: mytesting
   description: Artist main website
-annotations:
-    sonarqube.org/project-key: preety
+
 links:
     - url: https://dashboard.example.com
       title: My Dashboard

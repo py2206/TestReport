@@ -1,15 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: mytesting
-  description: Artist main website
-
-links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
-      icon: dashboard
+  name: testingreport
+  description: testingreport comp
+  
 spec:
   type: website
-  lifecycle: production
-  owner: team-a
-  system: artist-engagement-portal
+  lifecycle: experimental
+  owner: preety
